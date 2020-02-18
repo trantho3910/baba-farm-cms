@@ -1,0 +1,26 @@
+.thumb-square {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 0.1px;
+    border: 0px solid rgb(187, 99, 41);
+    border-radius: 30%;
+    background-position: center center;
+    background-size: cover;
+}
+.cssTableProduc td 
+{
+    text-align: center; 
+    vertical-align: middle;
+}
+
+.cssTableTH th
+{
+    text-align: center; 
+}
+
+.cssRowName
+{
+    color: green;
+    font-weight: bold;
+}
